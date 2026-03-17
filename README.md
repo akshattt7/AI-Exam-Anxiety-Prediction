@@ -73,7 +73,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/aanya1407jain/AI-Based-Anomaly-Detection-Platform.git cd AI-Based-Anomaly-Detection-Platform
+git clone https://github.com/akshattt7/AI-Based-Anomaly-Detection-Platform.git cd AI-Based-Anomaly-Detection-Platform
 
 Create virtual environment:
 
